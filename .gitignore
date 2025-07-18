@@ -1,0 +1,21 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
